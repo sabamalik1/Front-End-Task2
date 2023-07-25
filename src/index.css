@@ -1,4 +1,19 @@
-body {
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "AvertaDemo";
+  src: url("./assets/FontsFree-Net-AvertaDemoPECuttedDemo-Regular.ttf");
+}
+
+*{
+  font-family: "AvertaDemo", sans-serif;
+}
+
+
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +25,5 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
+} */
+
