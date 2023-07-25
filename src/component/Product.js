@@ -12,7 +12,7 @@ function Product() {
         </div>
 
         <div className='w-[486px] h-[98px] top-[100px] left-[670px]  absolute'>
-            <div className='[Averta Demo PE Cutted D] font-normal leading-[49.44px] text-[40px] text-[#000000]'>
+            <div className='[Averta Demo PE Cutted D] font-bold  leading-[49.44px] text-[40px] text-[#000000]'>
             Great Digital Product Agency since 2016
              </div> 
         </div>
