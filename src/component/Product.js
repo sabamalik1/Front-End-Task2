@@ -1,8 +1,9 @@
-import React from 'react'
+import React, { forwardRef } from 'react'
 
-function Product() {
+const Product=forwardRef((props,ref)=> {
   return (
-    <div className='w-[1200px] h-[436px] top-[1995px]  absolute '>
+    <div ref={ref}
+    className='w-[1200px] h-[436px] top-[1995px]  absolute '>
         <div className='w-[129px] h-[129px] top-[280px] left-[410px] absolute'>
         <img src='./figmaImages/Ellipse 86.png' alt='ellipse86'></img> 
         </div>
@@ -37,6 +38,6 @@ function Product() {
       
     </div>
   )
-}
+})
 
 export default Product

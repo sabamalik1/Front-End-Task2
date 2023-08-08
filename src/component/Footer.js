@@ -1,8 +1,10 @@
-import React from 'react'
+import React,{forwardRef} from  'react'
 
-function Footer() {
+const Footer=forwardRef((props,ref)=> {
+      
   return (
-    <div className='w-[1200px] h-[348px] top-[3731px] left-[120px] absolute'>
+    <div ref = {ref}
+     className='w-[1200px] h-[348px] top-[3731px] left-[120px] absolute'>
         <hr size='10'></hr>
 
         <div className='top-[45px] absolute'>
@@ -82,6 +84,6 @@ function Footer() {
       
     </div>
   )
-}
+})
 
 export default Footer;
