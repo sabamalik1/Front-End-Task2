@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Front-End-Task2/static/css/main.baf37c38.css",
+    "main.js": "/Front-End-Task2/static/js/main.5548dcc1.js",
+    "static/media/FontsFree-Net-AvertaDemoPECuttedDemo-Regular.ttf": "/Front-End-Task2/static/media/FontsFree-Net-AvertaDemoPECuttedDemo-Regular.8b16fcb0bfff179c926f.ttf",
+    "index.html": "/Front-End-Task2/index.html",
+    "main.baf37c38.css.map": "/Front-End-Task2/static/css/main.baf37c38.css.map",
+    "main.5548dcc1.js.map": "/Front-End-Task2/static/js/main.5548dcc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baf37c38.css",
+    "static/js/main.5548dcc1.js"
+  ]
+}
