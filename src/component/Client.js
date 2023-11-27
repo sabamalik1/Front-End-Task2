@@ -6,7 +6,7 @@ function Client() {
 
         <div className='[Averta Demo PE Cutted D] font-bold leading-[49.44px] text-[40px] text-[#000000]'>Our Client</div>
         
-        <div className='w-[336px] h-[58px] Averta Demo PE Cutted D] font-normal leading-[28.8px] top-[830px] left-[120px] text-[18px] text-[#757575]'>
+        <div className='w-[336px] h-[58px] [Averta Demo PE Cutted D] font-normal leading-[28.8px] top-[830px] left-[120px] text-[18px] text-[#757575]'>
         Several selected clients, who already believe in our service.
         </div>
         

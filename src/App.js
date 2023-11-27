@@ -5,7 +5,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div className='bg-[#FEFEFE]'>
+    <div className='bg-[#FEFEFE] ml-auto mr-auto '>
       <Figma />
     </div>
   )
